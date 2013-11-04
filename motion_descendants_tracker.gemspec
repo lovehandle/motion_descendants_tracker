@@ -9,6 +9,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{A RubyMotion port of descendants_tracker}
   spec.summary       = spec.description
   spec.homepage      = "http://github.com/rclosner/motion_descendants_tracker"
+  spec.license       = "MIT"
 
   files = []
   files << 'README.md'
